@@ -10,7 +10,7 @@ These terms are an agreement between you and Camzie ("we", "us") for your use of
 
 ## 1. Who can use Camzie
 
-You must be at least 18 years old to use Camzie.
+You must be at least 13 years old to use Camzie. If you are under 18, you need permission from a parent or guardian, who agrees to these terms for you.
 
 ## 2. What Camzie does
 
@@ -34,7 +34,8 @@ Camzie uses third-party AI models to apply lighting and photo effects to photos 
 
 You must not use Camzie to:
 
-- upload or create images of anyone under 18;
+- upload photos of children under 13;
+- create sexual or suggestive images of anyone under 18;
 - upload or create sexual, violent, hateful or illegal content;
 - edit photos of other people without their permission, or to harass, bully or impersonate anyone;
 - create images meant to mislead people into believing something false about a real person;

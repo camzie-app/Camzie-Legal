@@ -69,7 +69,7 @@ Our services are based in the United States, so your information may be processe
 
 ## Children
 
-Camzie is for people aged 18 and over. We don't knowingly collect information from anyone under 18. Please don't upload photos of children.
+Camzie is for people aged 13 and over, and users under 18 need a parent or guardian's permission. We don't knowingly collect information from children under 13. Please don't upload photos of children under 13. If you believe a child under 13 has used Camzie, email camzie.app@gmail.com and we'll delete their information.
 
 ## Changes to this policy
 
